@@ -1,3 +1,5 @@
+#Olá! Sou o Jhonatan, estudante de desenvolvimento web front-end e amante de jogos online!
+
 <div align="center">
   <a href="https://github.com/JhonatanSiqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanSiqueira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
