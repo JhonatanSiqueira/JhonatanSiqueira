@@ -1,4 +1,4 @@
-## Olá! Sou o Jhonatan, estudante de desenvolvimento web front-end e amante de jogos online!
+## Olá! Eu sou o Jhonatan, estudante de desenvolvimento web front-end e amante de jogos online!
 
 <div align="center">
   <a href="https://github.com/JhonatanSiqueira">
