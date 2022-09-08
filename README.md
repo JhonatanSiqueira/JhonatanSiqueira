@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Jhonatan, estudante de desenvolvimento web front-end e amante de jogos online!
-
 ## Hi! I'm Jhonatan, a front-end web development student and online game lover!
 
 <div align="center">
