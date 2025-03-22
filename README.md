@@ -1,4 +1,4 @@
-## Opa, tudo bem?! Me chamo jhonatan, atuo como desenvolvedor de software e curto de jogos online!
+## Opa, tudo bem?! Me chamo jhonatan, atuo como desenvolvedor de software e curto uns jogos online!
 
 <div align="center">
   <a href="https://github.com/JhonatanSiqueira">
